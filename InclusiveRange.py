@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-
-
 # An implementation of range() method which will include the last number
 def main():
 	#generate from 0 to 5
