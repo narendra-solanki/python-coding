@@ -24,7 +24,7 @@ class Solution:
         
         """
         result = [-1,-1]
-        for i, num in enumerate(nums):
+        for i, num in enumerate(nums,0):
             diff = target - num
             result[0] = i
             for j in range(i+1, len(nums)):            
