@@ -31,5 +31,3 @@ class Solution:
 
             triangle = row
         return triangle
-
-        
